@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyansh Gupta</h1>
-<h3 align="center">Hi, I'm Priyansh Gupta, A Full-stack web developer(MERN)👨‍💻 , Programmer And Designer , UI/UX Designer from Jaipur., Currently I am pursuing my B.tech in Computer Science & Engg,from Jaipur Engineering College and Research Centre.Beside's Programming, I Enjoy Learning And Traveling.</h3>
+<h3 align="center">Hi, I'm Priyansh Gupta, A Full-stack web developer(MERN)👨‍💻 , Programmer And Designer , UI/UX Designer from Jaipur., Currently I am pursuing my B.tech in Computer Science & Engg, from Jaipur Engineering College and Research Centre. Beside's Programming, I Enjoy Learning And Traveling.</h3>
 <br>
 <br>
 
