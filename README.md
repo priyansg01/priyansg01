@@ -11,10 +11,9 @@
 ![](https://komarev.com/ghpvc/?username=priyansg01&style=flat-square)
 
 
-<img align="right" height="300px" margin-bottom="450px" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
 
 Talking about Personal Stuffs:
-- 🔭 Looking For **A full time SDE role or Full-Stack developer**
+- 🔭 Looking For **A full time SDE role or Data Engineer role**
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
@@ -93,6 +92,13 @@ Talking about Personal Stuffs:
 
 ###
 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 
 
