@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Priyansh Gupta</h1>
-<h3 align="center">Hi, I'm Priyansh Gupta, A Full-stack web developer(MERN)👨‍💻 , Programmer And Designer , UI/UX Designer from Jaipur., Currently I am pursuing my B.tech in Computer Science & Engg, from Jaipur Engineering College and Research Centre. Beside's Programming, I Enjoy Learning And Traveling.</h3>
+<h3 align="center">
+  I'm Priyansh Gupta, a <strong>Data Engineer Intern</strong> 👨‍💻 passionate about building scalable data pipelines and solving complex data challenges.  
+  Currently pursuing my B.Tech in Computer Science & Engineering at Jaipur Engineering College and Research Centre (JECRC).  
+  I also have experience as a full-stack web developer (MERN) and UI/UX designer, blending programming skills with creative problem-solving.  
+  Outside of tech, I enjoy learning new technologies and traveling to explore new places.
+</h3>
 <br>
 <br>
+
 
 
 <img align="right" height="300px" margin-bottom="450px" src="https://camo.githubusercontent.com/2024b4acc66429c1d1dfbe6bcfbe35897f5d939da3522d35922057296eeaf7e6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966"  />
